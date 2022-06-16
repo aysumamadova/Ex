@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    background-image: url("https://preview.colorlib.com/theme/meal/images/xslider-1.jpg.pagespeed.ic.grltCgRAOJ.webp");
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+}
+.home{
+    padding-top: 20%;
+}
+.text-center h1{
+    font-size: 50px;
+    color: white;
+}
+.text{
+    align-items: center;
+    text-align: center;
+    padding: 5%;
+}
+.card h5{
+    color: #ffa0cb;
+}
+.p p{
+    color: #8c8484;
+}
+.card{
+    text-align: center;
+}
+.text1 p{
+    padding: 2%;
+    text-align: center;
+    text-align: justify;
+}
+.text-center h2{
+    text-align: center;
+}
+.img img{
+    width: 100%;
+    height: auto;
+}
+.shef{
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+
+
+.tabContainer{
+    width: 100%;
+    height: 350px;
+}
+.tabContainer .buttonContainer{
+    height: 15%;
+}
+.tabContainer .buttonContainer button{
+    width: 10%;
+    height: 100%;
+    float: left;
+    border: none;
+    outline:none;
+    cursor: pointer;
+    padding: 10px;
+    font-family: sans-serif;
+    font-size: 18px;
+    background-color: #eee;
+    text-align: center;
+}
+.tabContainer .buttonContainer button:hover
+{
+  background-color:#ff7a5c;
+}
+.section5{
+    padding: 20%;
+}
+.sing{
+    color:#ff7a5c ;
+    border-color:#ff7a5c ;
+    align-items: center;
+    width: 25%;
+}
+.section6{
+    background-color: #f8f9fa;
+    padding: 5%;
+}
+.section6 form{
+    width: 50%;
+}
